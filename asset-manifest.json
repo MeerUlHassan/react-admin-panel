@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-admin-panel/static/css/main.f632b192.css",
+    "main.js": "/react-admin-panel/static/js/main.e4dc4a3d.js",
+    "static/media/sm-dp.jpg": "/react-admin-panel/static/media/sm-dp.e15b5ae00c1b1415b8e3.jpg",
+    "index.html": "/react-admin-panel/index.html",
+    "main.f632b192.css.map": "/react-admin-panel/static/css/main.f632b192.css.map",
+    "main.e4dc4a3d.js.map": "/react-admin-panel/static/js/main.e4dc4a3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f632b192.css",
+    "static/js/main.e4dc4a3d.js"
+  ]
+}
